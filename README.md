@@ -1,5 +1,4 @@
 # Olá, eu sou a Amanda Galdino 👋
-# Olá, sou Amanda Galdino! 👋
 ---
 Sou uma estudante de **Análise e Desenvolvimento de Sistemas** pela FIAP. Apaixonada por tecnologia e inovação, estou sempre em busca de oportunidades para aplicar e expandir minhas habilidades em projetos práticos e desafiadores. 
 
@@ -16,21 +15,7 @@ Fique à vontade para explorar meus projetos e entrar em contato. Estou aberta a
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=amandaagaldino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 </div>
----
+
 ## Ferramentas e Tecnologias
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="70" height="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="70" height="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="70" height="70"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="70" height="70"/>
                                         
-<!--
-**amandaagaldino/amandaagaldino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

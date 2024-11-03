@@ -1,5 +1,5 @@
 # Olá, eu sou a Amanda Galdino 👋
----
+
 Sou uma estudante de **Análise e Desenvolvimento de Sistemas** pela FIAP. Apaixonada por tecnologia e inovação, estou sempre em busca de oportunidades para aplicar e expandir minhas habilidades em projetos práticos e desafiadores. 
 
 - 🎓 **Educação**: Cursando Análise e Desenvolvimento de Sistemas - Full Stack, APPS & Artificial Intelligence na FIAP.
@@ -11,8 +11,8 @@ Fique à vontade para explorar meus projetos e entrar em contato. Estou aberta a
 ---
 <div>
 <a href="https://github.com/amandaagaldino">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaagaldino&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=amandaagaldino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandaagaldino&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="170em" src="https://github-readme-stats.vercel.app/api?username=amandaagaldino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 </div>
 
